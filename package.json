@@ -1,6 +1,6 @@
 {
   "name": "syedakhansarahman_currency-converter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "type": "module",
   "bin": "index.js",
@@ -19,6 +19,7 @@
     "@types/node": "^20.12.7"
   },
   "dependencies": {
-    "inquirer": "^9.2.19"
+    "inquirer": "^9.2.19",
+    "syedakhansarahman_currency-converter": "^1.0.0"
   }
 }
